@@ -1,2 +1,3 @@
 # Anomaly_Detection
-Algorithm to Detect Anomalies in Dataset, implemented in C++
+Algorithm to Detect Anomalies in Dataset, implemented in C++.
+Outlier detection has been and continues being one of the most important problems with wide applications in the domain of data mining. In online social networks such as Twitter, outlier detection methods can be used to detect bots; for sales and e-commerce companies, outlier detection can be used on the historical data in sales recording to detect malicious behaviors; for physical hosts in the World Wide Web, outlier detection can be used in the SMTP/HTTP transmission records to find out the potential attacks to them.
